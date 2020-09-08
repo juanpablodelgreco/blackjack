@@ -1,3 +1,3 @@
 # blcksk
 
-`` LINK: https://juanpablodelgreco.github.io/blcksk/ `` 
+`` LINK: https://juanpablodelgreco.github.io/blackjack/ `` 
